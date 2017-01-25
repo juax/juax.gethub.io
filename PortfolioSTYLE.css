@@ -1,0 +1,40 @@
+body {background-color: #947968;}
+
+body {background-image: url('http://i19.photobucket.com/albums/b163/kfaye/background/animalfriends_.gif'); background-repeat: no-repeat; background-attachment: fixed; background-position: 450px 255px;}
+
+h1 {color: white; font-size: 60px;}
+
+h2 {color:yellow; font-size:18px;}
+
+h3 {font-family: sans serif; color: #FFFFFF}
+
+h1{border: 1px solid black; padding: 30px;}
+
+/*unvisited link*/
+a:link {color: yellow;}
+
+/*visited link*/
+a:visited {color: black;}
+
+a:hover {background-color: black;}
+
+p {font-family: arial; size: 1px; color: white;}
+
+div.img {
+    margin: 5px;
+    float: left;
+    width: 180px;
+}
+
+div.img img {
+    width: 40%;
+    height: auto;
+}
+
+div.desc {
+    padding: 10px;
+    text-align: left;
+	color: white;
+	font-size: 12px;
+	font-family: arial;
+}
