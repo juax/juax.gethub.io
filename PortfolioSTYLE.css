@@ -37,10 +37,6 @@ div.desc {
 	color: white;
 	font-size: 12px;
 	font-family: arial;
-}
-
-div.container-fluid {
-	color: #947968;}
 
 .para {
 	padding: 10px
@@ -48,7 +44,3 @@ div.container-fluid {
 	width: 500px;
 	height: 200px;
 }
-
-.row: after {content: ""; clear: both; display: block;}
-[class*="col-"]{float:left; padding: 15px;}
-[class*=col-"]{width:100%;}
