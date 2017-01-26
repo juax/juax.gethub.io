@@ -38,3 +38,8 @@ div.desc {
 	font-size: 12px;
 	font-family: arial;
 }
+
+img.img-responsive {
+	width: 200px;
+	height: 200px
+}
