@@ -45,3 +45,7 @@ div.desc {
 	width: 500px;
 	height: 200px;
 }
+
+.row: after {content: ""; clear: both; display: block;}
+[class*="col-"]{float:left; padding: 15px;}
+[class*=col-"]{width:100%;}
