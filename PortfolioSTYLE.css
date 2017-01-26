@@ -39,6 +39,9 @@ div.desc {
 	font-family: arial;
 }
 
+div.navbar header {
+	color: #947968;}
+
 .para {
 	padding: 10px
 	text-align: left;
