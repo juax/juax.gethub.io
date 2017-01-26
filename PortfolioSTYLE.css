@@ -2,11 +2,13 @@ body {background-color: #947968;}
 
 body {background-image: url('http://i19.photobucket.com/albums/b163/kfaye/background/animalfriends_.gif'); background-repeat: no-repeat; background-attachment: fixed; background-position: center;}
 
-h1 {margin: 300px; color: white; font-size: 60px;}
+h1 {color: white; font-size: 60px;}
 
 h2 {color:yellow; font-size:18px;}
 
 h3 {font-family: sans serif; color: #FFFFFF}
+
+h1{border: 1px solid black; padding: 30px;}
 
 /*unvisited link*/
 a:link {color: yellow;}
@@ -35,10 +37,4 @@ div.desc {
 	color: white;
 	font-size: 12px;
 	font-family: arial;
-
-.para {
-	padding: 10px
-	text-align: left;
-	width: 500px;
-	height: 200px;
 }
