@@ -30,8 +30,8 @@ div.img {
     width: 180px;
 }
 
-.img-responsive {width:40%
-	height: 40%
+.img-responsive {width:15%
+	height: auto
 }
 
 div.desc {
