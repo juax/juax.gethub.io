@@ -1,12 +1,11 @@
 body {background-color: #947968;}
 
 body {background-image: url('http://i19.photobucket.com/albums/b163/kfaye/background/animalfriends_.gif'); 
-	width: 640px;
-	height: 480px;
+	width: 100%;
+	height: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	background-size: contain;
 }
 
 h1 {color: white; font-size: 60px;}
