@@ -1,4 +1,4 @@
-body {background-color: #947968;}
+container {background-color: #947968;}
 
 body {background-image: url('http://i19.photobucket.com/albums/b163/kfaye/background/animalfriends_.gif'); 
 	width: 100%;
@@ -8,9 +8,9 @@ body {background-image: url('http://i19.photobucket.com/albums/b163/kfaye/backgr
 	background-position: center;
 }
 
-h1 {color: white; font-size: 60px;}
+h1 {color: white;}
 
-h2 {color:yellow; font-size:18px;}
+h2 {color:yellow;}
 
 h3 {font-family: sans serif; color: #FFFFFF}
 
