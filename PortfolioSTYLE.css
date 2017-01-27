@@ -20,8 +20,6 @@ a:visited {color: black;}
 
 a:hover {background-color: black;}
 
-p {font-family: arial; size: 1px; color: white;}
-
 div.img {
     margin: 5px;
     float: left;
