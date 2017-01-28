@@ -4,17 +4,17 @@ body {background-image: url('http://2.bp.blogspot.com/-OCaUlI5CJlI/T2B0a1m1qZI/A
 	background-size: cover;
 }
 
-    /* Remove the navbar's default margin-bottom and rounded borders */ 
-    .navbar {
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
       margin-bottom: 0;
       border-radius: 0;
-    }
+}
     
-    /* Add a gray background color and some padding to the footer */
-    footer {
+/* Add a gray background color and some padding to the footer */
+footer {
       background-color: #f2f2f2;
       padding: 5px;
-    }
+}
 
 /*changed background-size to cover*/
 
