@@ -56,3 +56,18 @@ div.desc {
 	 font-size: 12px;
 	 font-family: arial;
 }
+
+.container {
+    display: -webkit-flex;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+}
+
+.flex-item {
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    margin: 20px;
+}
