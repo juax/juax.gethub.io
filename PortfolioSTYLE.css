@@ -58,7 +58,6 @@ div.desc {
 }
 
 .container {
-    display: -webkit-flex;
     display: flex;
     width: 100px;
     height: 100px;
