@@ -67,7 +67,7 @@ div.desc {
 
 .flex-item {
     background-color: black;
-    color: white;
+    font-color: white;
     width: 250px;
     height: 250px;
     margin: 15px;
