@@ -7,11 +7,11 @@ body {background-image: url('http://sdeerwallpaper.com/Cool-Wallpapers/white-abs
 /*changed background-size to cover*/
 
 div.enter {
-	color: white;}
+	color: black;}
 
 div.para {
 	text-align: center;
-	color: white;
+	color: black;
 }
 
 h1 {
