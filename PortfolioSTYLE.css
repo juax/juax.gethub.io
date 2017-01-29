@@ -6,9 +6,6 @@ body {background-image: url('http://sdeerwallpaper.com/Cool-Wallpapers/white-abs
 
 /*changed background-size to cover*/
 
-div.container-fluid {
-	font-color: black;}
-
 div.enter {
 	color: white;}
 
@@ -57,6 +54,5 @@ div.img {
 div.desc {
     	 padding: 10px;
          text-align: left;
-	 color: white;
-	 font-size: 12px;
+	 color: black;
 	 font-family: arial;
