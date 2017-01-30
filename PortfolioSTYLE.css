@@ -46,11 +46,6 @@ div.img {
     width: 180px;
 }
 
-.img-responsive {
-		width:15%
-		height: auto
-}
-
 div.desc {
     	 padding: 10px;
          text-align: left;
